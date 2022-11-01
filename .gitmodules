@@ -1,0 +1,3 @@
+[submodule "MyRepoTest2"]
+	path = MyRepoTest2
+	url = https://github.com/mrvaldem/MyRepoTest2.git
